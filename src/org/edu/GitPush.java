@@ -5,6 +5,7 @@ public static void main(String[] args)
 	
 	{
 	System.out.println("ug:BCA");
+	System.out.println("gb");
 	}
 
 }
